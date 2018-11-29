@@ -1,0 +1,882 @@
+
+
+2012/12/01 03:20:48  Current Time : 0
+2012/12/01 03:20:48  Current Time : 1
+2012/12/01 03:20:48  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:48  Number of diners in the restaurant : 1
+2012/12/01 03:20:48  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:48  Number of diners in the restaurant : 1
+2012/12/01 03:20:48  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:48  Number of diners in the restaurant : 1
+2012/12/01 03:20:48  Diner-0 : waiting on tables for a table
+2012/12/01 03:20:48  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:48  Cook-0 : assigned to Table-0
+2012/12/01 03:20:48  Diner-0 : seated on Table-0
+2012/12/01 03:20:48  Cook-0 : waiting for diner to place order
+2012/12/01 03:20:48  Number of diners in the restaurant : 1
+2012/12/01 03:20:48  Diner-0 : placed order
+2012/12/01 03:20:48  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:48  Diner-0 : waiting on table for cook
+2012/12/01 03:20:48  Number of diners in the restaurant : 1
+2012/12/01 03:20:48  Diner-0 : waiting on table for food
+2012/12/01 03:20:48  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:48  Number of diners in the restaurant : 1
+2012/12/01 03:20:48  Cook-0 : looking for machines
+2012/12/01 03:20:48  Cook-0 : BurgerMachine occupied
+2012/12/01 03:20:48  Cook-0 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:48  Current Time : 2
+2012/12/01 03:20:48  Diner-1 : waiting on tables for a table
+2012/12/01 03:20:48  Diner-1 : seated on Table-1
+2012/12/01 03:20:48  Cook-3 : assigned to Table-1
+2012/12/01 03:20:48  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:48  Cook-3 : waiting for diner to place order
+2012/12/01 03:20:48  Number of diners in the restaurant : 2
+2012/12/01 03:20:48  Diner-1 : placed order
+2012/12/01 03:20:48  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:48  Diner-1 : waiting on table for cook
+2012/12/01 03:20:48  Number of diners in the restaurant : 2
+2012/12/01 03:20:48  Diner-1 : waiting on table for food
+2012/12/01 03:20:48  Cook-3 : looking for machines
+2012/12/01 03:20:48  Cook-3 : SodaMachine occupied
+2012/12/01 03:20:48  Cook-3 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:48  Cook-3 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:48  Diner-2 : waiting on tables for a table
+2012/12/01 03:20:48  Current Time : 3
+2012/12/01 03:20:48  Cook-2 : assigned to Table-2
+2012/12/01 03:20:48  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:48  Diner-2 : seated on Table-2
+2012/12/01 03:20:48  Cook-3 : looking for machines
+2012/12/01 03:20:48  Number of diners in the restaurant : 3
+2012/12/01 03:20:48  Cook-2 : waiting for diner to place order
+2012/12/01 03:20:48  Diner-2 : placed order
+2012/12/01 03:20:48  Diner-2 : waiting on table for cook
+2012/12/01 03:20:48  Diner-2 : waiting on table for food
+2012/12/01 03:20:48  Cook-2 : looking for machines
+2012/12/01 03:20:48  Cook-2 : FriesMachine occupied
+2012/12/01 03:20:48  Cook-2 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:48  Current Time : 4
+2012/12/01 03:20:48  Diner-3 : waiting on tables for a table
+2012/12/01 03:20:48  Diner-3 : seated on Table-3
+2012/12/01 03:20:48  Cook-1 : assigned to Table-3
+2012/12/01 03:20:48  Cook-1 : waiting for diner to place order
+2012/12/01 03:20:48  Diner-3 : placed order
+2012/12/01 03:20:48  Diner-3 : waiting on table for cook
+2012/12/01 03:20:48  Diner-3 : waiting on table for food
+2012/12/01 03:20:48  Cook-1 : looking for machines
+2012/12/01 03:20:48  Current Time : 5
+2012/12/01 03:20:48  Diner-4 : waiting on tables for a table
+2012/12/01 03:20:48  Diner-4 : seated on Table-4
+2012/12/01 03:20:48  Diner-4 : placed order
+2012/12/01 03:20:48  Diner-4 : waiting on table for cook
+2012/12/01 03:20:48  Cook-2 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:48  Diner-5 : waiting on tables for a table
+2012/12/01 03:20:48  Current Time : 6
+2012/12/01 03:20:48  Cook-1 : FriesMachine occupied
+2012/12/01 03:20:48  Cook-1 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:48  Diner-5 : seated on Table-5
+2012/12/01 03:20:48  Cook-2 : looking for machines
+2012/12/01 03:20:48  Diner-5 : placed order
+2012/12/01 03:20:48  Diner-5 : waiting on table for cook
+2012/12/01 03:20:48  Current Time : 7
+2012/12/01 03:20:48  Diner-6 : waiting on tables for a table
+2012/12/01 03:20:48  Current Time : 8
+2012/12/01 03:20:49  Cook-1 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:49  Current Time : 9
+2012/12/01 03:20:49  Cook-1 : looking for machines
+2012/12/01 03:20:49  Current Time : 10
+2012/12/01 03:20:49  Cook-0 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:49  Cook-2 : BurgerMachine occupied
+2012/12/01 03:20:49  Current Time : 11
+2012/12/01 03:20:49  Cook-2 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:49  Cook-0 : looking for machines
+2012/12/01 03:20:49  Cook-0 : FriesMachine occupied
+2012/12/01 03:20:49  Cook-0 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:49  Current Time : 12
+2012/12/01 03:20:49  Current Time : 13
+2012/12/01 03:20:49  Cook-0 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:49  Current Time : 14
+2012/12/01 03:20:49  Food served for Cook-0
+2012/12/01 03:20:49  Cook-0 : assigned to Table-5
+2012/12/01 03:20:49  Cook-0 : waiting for diner to place order
+2012/12/01 03:20:49  Diner-6 : waiting on tables for a table
+2012/12/01 03:20:49  Diner-0 : Started Eating
+2012/12/01 03:20:49  Diner-5 : waiting on table for food
+2012/12/01 03:20:49  Cook-0 : looking for machines
+2012/12/01 03:20:49  Cook-0 : FriesMachine occupied
+2012/12/01 03:20:49  Cook-0 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:49  Current Time : 15
+2012/12/01 03:20:49  Current Time : 16
+2012/12/01 03:20:49  Current Time : 17
+2012/12/01 03:20:49  Cook-0 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:49  Cook-0 : looking for machines
+2012/12/01 03:20:49  Current Time : 18
+2012/12/01 03:20:49  Current Time : 19
+2012/12/01 03:20:49  Current Time : 20
+2012/12/01 03:20:49  Current Time : 21
+2012/12/01 03:20:49  Cook-3 : BurgerMachine occupied
+2012/12/01 03:20:49  Cook-2 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:49  Cook-3 : Cooking on BurgerMachine for time 20
+2012/12/01 03:20:49  Food served for Cook-2
+2012/12/01 03:20:49  Cook-2 : assigned to Table-4
+2012/12/01 03:20:49  Cook-2 : waiting for diner to place order
+2012/12/01 03:20:49  Cook-2 : looking for machines
+2012/12/01 03:20:49  Diner-6 : waiting on tables for a table
+2012/12/01 03:20:49  Diner-2 : Started Eating
+2012/12/01 03:20:49  Cook-2 : SodaMachine occupied
+2012/12/01 03:20:49  Diner-4 : waiting on table for food
+2012/12/01 03:20:49  Cook-2 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:49  Cook-2 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:49  Current Time : 22
+2012/12/01 03:20:49  Cook-2 : looking for machines
+2012/12/01 03:20:49  Current Time : 23
+2012/12/01 03:20:49  Current Time : 24
+2012/12/01 03:20:49  Current Time : 25
+2012/12/01 03:20:49  Current Time : 26
+2012/12/01 03:20:49  Current Time : 27
+2012/12/01 03:20:49  Current Time : 28
+2012/12/01 03:20:50  Current Time : 29
+2012/12/01 03:20:50  Current Time : 30
+2012/12/01 03:20:50  Current Time : 31
+2012/12/01 03:20:50  Current Time : 32
+2012/12/01 03:20:50  Current Time : 33
+2012/12/01 03:20:50  Current Time : 34
+2012/12/01 03:20:50  Current Time : 35
+2012/12/01 03:20:50  Current Time : 36
+2012/12/01 03:20:50  Current Time : 37
+2012/12/01 03:20:50  Current Time : 38
+2012/12/01 03:20:50  Current Time : 39
+2012/12/01 03:20:50  Current Time : 40
+2012/12/01 03:20:50  Cook-0 : BurgerMachine occupied
+2012/12/01 03:20:50  Diner-7 : waiting on tables for a table
+2012/12/01 03:20:50  Current Time : 41
+2012/12/01 03:20:50  Cook-3 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:50  Cook-0 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:50  Food served for Cook-3
+2012/12/01 03:20:50  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-1 : Started Eating
+2012/12/01 03:20:50  Number of diners in the restaurant : 8
+2012/12/01 03:20:50  Current Time : 42
+2012/12/01 03:20:50  Diner-8 : waiting on tables for a table
+2012/12/01 03:20:50  Current Time : 43
+2012/12/01 03:20:50  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-0 : released Table-0
+2012/12/01 03:20:50  Current Time : 44
+2012/12/01 03:20:50  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-8 : waiting on tables for a table
+2012/12/01 03:20:50  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:50  Number of diners in the restaurant : 10
+2012/12/01 03:20:50  Diner-7 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-6 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-6 : seated on Table-0
+2012/12/01 03:20:50  Diner-7 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-6 : placed order
+2012/12/01 03:20:50  Diner-6 : waiting on table for cook
+2012/12/01 03:20:50  Diner-8 : waiting on tables for a table
+2012/12/01 03:20:50  Diner-6 : waiting on table for food
+2012/12/01 03:20:50  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:50  Cook-3 : assigned to Table-0
+2012/12/01 03:20:50  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:50  Cook-3 : waiting for diner to place order
+2012/12/01 03:20:50  Diner-7 : waiting on tables for a table
+2012/12/01 03:20:50  Cook-3 : looking for machines
+2012/12/01 03:20:50  Cook-3 : FriesMachine occupied
+2012/12/01 03:20:50  Cook-3 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:50  Current Time : 45
+2012/12/01 03:20:50  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:50  Current Time : 46
+2012/12/01 03:20:50  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:50  Cook-3 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:50  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:50  Current Time : 47
+2012/12/01 03:20:50  Cook-3 : looking for machines
+2012/12/01 03:20:50  Cook-3 : SodaMachine occupied
+2012/12/01 03:20:50  Cook-3 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:50  Cook-3 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:50  Current Time : 48
+2012/12/01 03:20:50  Cook-3 : looking for machines
+2012/12/01 03:20:51  Current Time : 49
+2012/12/01 03:20:51  Current Time : 50
+2012/12/01 03:20:51  Current Time : 51
+2012/12/01 03:20:51  Cook-3 : BurgerMachine occupied
+2012/12/01 03:20:51  Diner-2 : released Table-2
+2012/12/01 03:20:51  Cook-0 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:51  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:51  Cook-3 : Cooking on BurgerMachine for time 5
+2012/12/01 03:20:51  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:51  Food served for Cook-0
+2012/12/01 03:20:51  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-5 : Started Eating
+2012/12/01 03:20:51  Diner-7 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-7 : seated on Table-2
+2012/12/01 03:20:51  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-7 : placed order
+2012/12/01 03:20:51  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-7 : waiting on table for cook
+2012/12/01 03:20:51  Diner-8 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:51  Cook-0 : assigned to Table-2
+2012/12/01 03:20:51  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:51  Cook-0 : waiting for diner to place order
+2012/12/01 03:20:51  Cook-0 : looking for machines
+2012/12/01 03:20:51  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:51  Cook-0 : FriesMachine occupied
+2012/12/01 03:20:51  Diner-7 : waiting on table for food
+2012/12/01 03:20:51  Cook-0 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:51  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-8 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:51  Current Time : 52
+2012/12/01 03:20:51  Current Time : 53
+2012/12/01 03:20:51  Cook-0 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:51  Current Time : 54
+2012/12/01 03:20:51  Cook-0 : looking for machines
+2012/12/01 03:20:51  Current Time : 55
+2012/12/01 03:20:51  Cook-3 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:51  Current Time : 56
+2012/12/01 03:20:51  Cook-0 : BurgerMachine occupied
+2012/12/01 03:20:51  Food served for Cook-3
+2012/12/01 03:20:51  Cook-0 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:51  Diner-6 : Started Eating
+2012/12/01 03:20:51  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:51  Number of diners in the restaurant : 12
+2012/12/01 03:20:51  Current Time : 57
+2012/12/01 03:20:51  Current Time : 58
+2012/12/01 03:20:51  Current Time : 59
+2012/12/01 03:20:51  Current Time : 60
+2012/12/01 03:20:51  Current Time : 61
+2012/12/01 03:20:51  Current Time : 62
+2012/12/01 03:20:51  Current Time : 63
+2012/12/01 03:20:51  Current Time : 64
+2012/12/01 03:20:51  Current Time : 65
+2012/12/01 03:20:51  Current Time : 66
+2012/12/01 03:20:51  Cook-2 : BurgerMachine occupied
+2012/12/01 03:20:51  Cook-0 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:51  Cook-2 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:51  Food served for Cook-0
+2012/12/01 03:20:51  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:51  Diner-7 : Started Eating
+2012/12/01 03:20:51  Number of diners in the restaurant : 12
+2012/12/01 03:20:51  Current Time : 67
+2012/12/01 03:20:51  Current Time : 68
+2012/12/01 03:20:52  Current Time : 69
+2012/12/01 03:20:52  Current Time : 70
+2012/12/01 03:20:52  Current Time : 71
+2012/12/01 03:20:52  Diner-1 : released Table-1
+2012/12/01 03:20:52  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:52  Number of diners in the restaurant : 11
+2012/12/01 03:20:52  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:52  Number of diners in the restaurant : 11
+2012/12/01 03:20:52  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-8 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-8 : seated on Table-1
+2012/12/01 03:20:52  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-8 : placed order
+2012/12/01 03:20:52  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-8 : waiting on table for cook
+2012/12/01 03:20:52  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-3 : assigned to Table-1
+2012/12/01 03:20:52  Cook-3 : waiting for diner to place order
+2012/12/01 03:20:52  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-8 : waiting on table for food
+2012/12/01 03:20:52  Cook-3 : looking for machines
+2012/12/01 03:20:52  Number of diners in the restaurant : 11
+2012/12/01 03:20:52  Cook-3 : SodaMachine occupied
+2012/12/01 03:20:52  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-3 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:52  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:52  Current Time : 72
+2012/12/01 03:20:52  Cook-3 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:52  Cook-3 : looking for machines
+2012/12/01 03:20:52  Current Time : 73
+2012/12/01 03:20:52  Current Time : 74
+2012/12/01 03:20:52  Current Time : 75
+2012/12/01 03:20:52  Current Time : 76
+2012/12/01 03:20:52  Cook-2 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:52  Cook-1 : BurgerMachine occupied
+2012/12/01 03:20:52  Food served for Cook-2
+2012/12/01 03:20:52  Cook-1 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:52  Diner-4 : Started Eating
+2012/12/01 03:20:52  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:52  Number of diners in the restaurant : 11
+2012/12/01 03:20:52  Current Time : 77
+2012/12/01 03:20:52  Current Time : 78
+2012/12/01 03:20:52  Current Time : 79
+2012/12/01 03:20:52  Current Time : 80
+2012/12/01 03:20:52  Diner-5 : released Table-5
+2012/12/01 03:20:52  Current Time : 81
+2012/12/01 03:20:52  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:52  Number of diners in the restaurant : 11
+2012/12/01 03:20:52  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-9 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-9 : seated on Table-5
+2012/12/01 03:20:52  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-9 : placed order
+2012/12/01 03:20:52  Diner-9 : waiting on table for cook
+2012/12/01 03:20:52  Cook-0 : assigned to Table-5
+2012/12/01 03:20:52  Cook-0 : waiting for diner to place order
+2012/12/01 03:20:52  Cook-0 : looking for machines
+2012/12/01 03:20:52  Diner-9 : waiting on table for food
+2012/12/01 03:20:52  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:52  Number of diners in the restaurant : 11
+2012/12/01 03:20:52  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-0 : FriesMachine occupied
+2012/12/01 03:20:52  Cook-0 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:52  Current Time : 82
+2012/12/01 03:20:52  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:52  Current Time : 83
+2012/12/01 03:20:52  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-0 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:52  Current Time : 84
+2012/12/01 03:20:52  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-0 : looking for machines
+2012/12/01 03:20:52  Current Time : 85
+2012/12/01 03:20:52  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-6 : released Table-0
+2012/12/01 03:20:52  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-1 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:52  Cook-0 : BurgerMachine occupied
+2012/12/01 03:20:52  Food served for Cook-1
+2012/12/01 03:20:52  Current Time : 86
+2012/12/01 03:20:52  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-3 : Started Eating
+2012/12/01 03:20:52  Cook-0 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:52  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:52  Number of diners in the restaurant : 15
+2012/12/01 03:20:52  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-10 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-10 : seated on Table-0
+2012/12/01 03:20:52  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-10 : placed order
+2012/12/01 03:20:52  Diner-10 : waiting on table for cook
+2012/12/01 03:20:52  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-2 : assigned to Table-0
+2012/12/01 03:20:52  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-2 : waiting for diner to place order
+2012/12/01 03:20:52  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-10 : waiting on table for food
+2012/12/01 03:20:52  Cook-2 : looking for machines
+2012/12/01 03:20:52  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-2 : FriesMachine occupied
+2012/12/01 03:20:52  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-2 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:52  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:52  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:52  Number of diners in the restaurant : 15
+2012/12/01 03:20:52  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:52  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:52  Current Time : 87
+2012/12/01 03:20:52  Current Time : 88
+2012/12/01 03:20:53  Current Time : 89
+2012/12/01 03:20:53  Cook-2 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:53  Cook-2 : looking for machines
+2012/12/01 03:20:53  Current Time : 90
+2012/12/01 03:20:53  Current Time : 91
+2012/12/01 03:20:53  Current Time : 92
+2012/12/01 03:20:53  Current Time : 93
+2012/12/01 03:20:53  Current Time : 94
+2012/12/01 03:20:53  Current Time : 95
+2012/12/01 03:20:53  Diner-7 : released Table-2
+2012/12/01 03:20:53  Cook-0 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:53  Current Time : 96
+2012/12/01 03:20:53  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-3 : BurgerMachine occupied
+2012/12/01 03:20:53  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:53  Food served for Cook-0
+2012/12/01 03:20:53  Diner-11 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-3 : Cooking on BurgerMachine for time 20
+2012/12/01 03:20:53  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-11 : seated on Table-2
+2012/12/01 03:20:53  Diner-9 : Started Eating
+2012/12/01 03:20:53  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-1 : assigned to Table-2
+2012/12/01 03:20:53  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-1 : waiting for diner to place order
+2012/12/01 03:20:53  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-11 : placed order
+2012/12/01 03:20:53  Diner-11 : waiting on table for cook
+2012/12/01 03:20:53  Diner-11 : waiting on table for food
+2012/12/01 03:20:53  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-1 : looking for machines
+2012/12/01 03:20:53  Cook-1 : SodaMachine occupied
+2012/12/01 03:20:53  Cook-1 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:53  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:53  Number of diners in the restaurant : 14
+2012/12/01 03:20:53  Current Time : 97
+2012/12/01 03:20:53  Cook-1 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:53  Cook-1 : looking for machines
+2012/12/01 03:20:53  Current Time : 98
+2012/12/01 03:20:53  Current Time : 99
+2012/12/01 03:20:53  Current Time : 100
+2012/12/01 03:20:53  Current Time : 101
+2012/12/01 03:20:53  Current Time : 102
+2012/12/01 03:20:53  Current Time : 103
+2012/12/01 03:20:53  Current Time : 104
+2012/12/01 03:20:53  Current Time : 105
+2012/12/01 03:20:53  Diner-4 : released Table-4
+2012/12/01 03:20:53  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:53  Number of diners in the restaurant : 13
+2012/12/01 03:20:53  Current Time : 106
+2012/12/01 03:20:53  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-12 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-12 : seated on Table-4
+2012/12/01 03:20:53  Diner-12 : placed order
+2012/12/01 03:20:53  Diner-12 : waiting on table for cook
+2012/12/01 03:20:53  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-0 : assigned to Table-4
+2012/12/01 03:20:53  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-0 : waiting for diner to place order
+2012/12/01 03:20:53  Cook-0 : looking for machines
+2012/12/01 03:20:53  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:53  Cook-0 : FriesMachine occupied
+2012/12/01 03:20:53  Cook-0 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:53  Diner-12 : waiting on table for food
+2012/12/01 03:20:53  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:53  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:53  Current Time : 107
+2012/12/01 03:20:53  Current Time : 108
+2012/12/01 03:20:54  Cook-0 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:54  Cook-0 : looking for machines
+2012/12/01 03:20:54  Current Time : 109
+2012/12/01 03:20:54  Current Time : 110
+2012/12/01 03:20:54  Current Time : 111
+2012/12/01 03:20:54  Current Time : 112
+2012/12/01 03:20:54  Current Time : 113
+2012/12/01 03:20:54  Current Time : 114
+2012/12/01 03:20:54  Current Time : 115
+2012/12/01 03:20:54  Cook-0 : BurgerMachine occupied
+2012/12/01 03:20:54  Current Time : 116
+2012/12/01 03:20:54  Diner-3 : released Table-3
+2012/12/01 03:20:54  Cook-3 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:54  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-0 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:54  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:54  Food served for Cook-3
+2012/12/01 03:20:54  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-8 : Started Eating
+2012/12/01 03:20:54  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-13 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-13 : seated on Table-3
+2012/12/01 03:20:54  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-13 : placed order
+2012/12/01 03:20:54  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-13 : waiting on table for cook
+2012/12/01 03:20:54  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-3 : assigned to Table-3
+2012/12/01 03:20:54  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-3 : waiting for diner to place order
+2012/12/01 03:20:54  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-3 : looking for machines
+2012/12/01 03:20:54  Diner-13 : waiting on table for food
+2012/12/01 03:20:54  Cook-3 : FriesMachine occupied
+2012/12/01 03:20:54  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-3 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:54  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:54  Current Time : 117
+2012/12/01 03:20:54  Current Time : 118
+2012/12/01 03:20:54  Cook-3 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:54  Current Time : 119
+2012/12/01 03:20:54  Cook-3 : looking for machines
+2012/12/01 03:20:54  Cook-3 : SodaMachine occupied
+2012/12/01 03:20:54  Cook-3 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:54  Cook-3 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:54  Current Time : 120
+2012/12/01 03:20:54  Cook-3 : looking for machines
+2012/12/01 03:20:54  Current Time : 121
+2012/12/01 03:20:54  Current Time : 122
+2012/12/01 03:20:54  Current Time : 123
+2012/12/01 03:20:54  Current Time : 124
+2012/12/01 03:20:54  Current Time : 125
+2012/12/01 03:20:54  Cook-3 : BurgerMachine occupied
+2012/12/01 03:20:54  Cook-0 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:54  Diner-9 : released Table-5
+2012/12/01 03:20:54  Current Time : 126
+2012/12/01 03:20:54  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:54  Food served for Cook-0
+2012/12/01 03:20:54  Cook-3 : Cooking on BurgerMachine for time 5
+2012/12/01 03:20:54  Diner-12 : Started Eating
+2012/12/01 03:20:54  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-14 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-14 : seated on Table-5
+2012/12/01 03:20:54  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-14 : placed order
+2012/12/01 03:20:54  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-14 : waiting on table for cook
+2012/12/01 03:20:54  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-0 : assigned to Table-5
+2012/12/01 03:20:54  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-0 : waiting for diner to place order
+2012/12/01 03:20:54  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:54  Diner-14 : waiting on table for food
+2012/12/01 03:20:54  Cook-0 : looking for machines
+2012/12/01 03:20:54  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-0 : FriesMachine occupied
+2012/12/01 03:20:54  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:54  Cook-0 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:54  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:54  Current Time : 127
+2012/12/01 03:20:54  Current Time : 128
+2012/12/01 03:20:55  Cook-0 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:55  Current Time : 129
+2012/12/01 03:20:55  Cook-0 : looking for machines
+2012/12/01 03:20:55  Current Time : 130
+2012/12/01 03:20:55  Current Time : 131
+2012/12/01 03:20:55  Cook-3 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:55  Cook-1 : BurgerMachine occupied
+2012/12/01 03:20:55  Food served for Cook-3
+2012/12/01 03:20:55  Cook-1 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:55  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:55  Number of diners in the restaurant : 11
+2012/12/01 03:20:55  Diner-13 : Started Eating
+2012/12/01 03:20:55  Current Time : 132
+2012/12/01 03:20:55  Current Time : 133
+2012/12/01 03:20:55  Current Time : 134
+2012/12/01 03:20:55  Current Time : 135
+2012/12/01 03:20:55  Current Time : 136
+2012/12/01 03:20:55  Current Time : 137
+2012/12/01 03:20:55  Current Time : 138
+2012/12/01 03:20:55  Current Time : 139
+2012/12/01 03:20:55  Current Time : 140
+2012/12/01 03:20:55  Current Time : 141
+2012/12/01 03:20:55  Cook-2 : BurgerMachine occupied
+2012/12/01 03:20:55  Cook-2 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:55  Cook-1 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:55  Food served for Cook-1
+2012/12/01 03:20:55  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:55  Number of diners in the restaurant : 11
+2012/12/01 03:20:55  Diner-11 : Started Eating
+2012/12/01 03:20:55  Current Time : 142
+2012/12/01 03:20:55  Current Time : 143
+2012/12/01 03:20:55  Current Time : 144
+2012/12/01 03:20:55  Current Time : 145
+2012/12/01 03:20:55  Diner-8 : released Table-1
+2012/12/01 03:20:55  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:55  Current Time : 146
+2012/12/01 03:20:55  Number of diners in the restaurant : 10
+2012/12/01 03:20:55  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:55  Number of diners in the restaurant : 10
+2012/12/01 03:20:55  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-15 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-15 : seated on Table-1
+2012/12/01 03:20:55  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-15 : placed order
+2012/12/01 03:20:55  Diner-15 : waiting on table for cook
+2012/12/01 03:20:55  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:55  Cook-3 : assigned to Table-1
+2012/12/01 03:20:55  Cook-3 : waiting for diner to place order
+2012/12/01 03:20:55  Cook-3 : looking for machines
+2012/12/01 03:20:55  Cook-3 : SodaMachine occupied
+2012/12/01 03:20:55  Cook-3 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:55  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:55  Number of diners in the restaurant : 10
+2012/12/01 03:20:55  Diner-15 : waiting on table for food
+2012/12/01 03:20:55  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:55  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:55  Cook-3 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:55  Cook-3 : looking for machines
+2012/12/01 03:20:55  Current Time : 147
+2012/12/01 03:20:56  Current Time : 148
+2012/12/01 03:20:56  Current Time : 149
+2012/12/01 03:20:56  Current Time : 150
+2012/12/01 03:20:56  Current Time : 151
+2012/12/01 03:20:56  Cook-2 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:56  Cook-0 : BurgerMachine occupied
+2012/12/01 03:20:56  Food served for Cook-2
+2012/12/01 03:20:56  Cook-0 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:56  Diner-10 : Started Eating
+2012/12/01 03:20:56  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:56  Number of diners in the restaurant : 10
+2012/12/01 03:20:56  Current Time : 152
+2012/12/01 03:20:56  Current Time : 153
+2012/12/01 03:20:56  Current Time : 154
+2012/12/01 03:20:56  Current Time : 155
+2012/12/01 03:20:56  Current Time : 156
+2012/12/01 03:20:56  Diner-12 : released Table-4
+2012/12/01 03:20:56  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:56  Number of diners in the restaurant : 9
+2012/12/01 03:20:56  Diner-16 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-16 : seated on Table-4
+2012/12/01 03:20:56  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-16 : placed order
+2012/12/01 03:20:56  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-16 : waiting on table for cook
+2012/12/01 03:20:56  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:56  Cook-1 : assigned to Table-4
+2012/12/01 03:20:56  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:56  Cook-1 : waiting for diner to place order
+2012/12/01 03:20:56  Cook-1 : looking for machines
+2012/12/01 03:20:56  Cook-1 : FriesMachine occupied
+2012/12/01 03:20:56  Cook-1 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:56  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-16 : waiting on table for food
+2012/12/01 03:20:56  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:56  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:56  Number of diners in the restaurant : 9
+2012/12/01 03:20:56  Current Time : 157
+2012/12/01 03:20:56  Current Time : 158
+2012/12/01 03:20:56  Current Time : 159
+2012/12/01 03:20:56  Cook-1 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:56  Cook-1 : looking for machines
+2012/12/01 03:20:56  Current Time : 160
+2012/12/01 03:20:56  Diner-13 : released Table-3
+2012/12/01 03:20:56  Current Time : 161
+2012/12/01 03:20:56  Cook-0 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:56  Cook-1 : BurgerMachine occupied
+2012/12/01 03:20:56  Food served for Cook-0
+2012/12/01 03:20:56  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:56  Number of diners in the restaurant : 8
+2012/12/01 03:20:56  Cook-1 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:56  Diner-17 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-14 : Started Eating
+2012/12/01 03:20:56  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-17 : seated on Table-3
+2012/12/01 03:20:56  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-17 : placed order
+2012/12/01 03:20:56  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:56  Diner-17 : waiting on table for cook
+2012/12/01 03:20:56  Number of diners in the restaurant : 8
+2012/12/01 03:20:56  Diner-17 : waiting on table for food
+2012/12/01 03:20:56  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:56  Cook-2 : assigned to Table-3
+2012/12/01 03:20:56  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:56  Cook-2 : waiting for diner to place order
+2012/12/01 03:20:56  Cook-2 : looking for machines
+2012/12/01 03:20:56  Cook-2 : FriesMachine occupied
+2012/12/01 03:20:56  Cook-2 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:56  Current Time : 162
+2012/12/01 03:20:56  Current Time : 163
+2012/12/01 03:20:56  Cook-2 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:56  Current Time : 164
+2012/12/01 03:20:56  Cook-2 : looking for machines
+2012/12/01 03:20:56  Current Time : 165
+2012/12/01 03:20:56  Current Time : 166
+2012/12/01 03:20:56  Current Time : 167
+2012/12/01 03:20:57  Current Time : 168
+2012/12/01 03:20:57  Current Time : 169
+2012/12/01 03:20:57  Current Time : 170
+2012/12/01 03:20:57  Current Time : 171
+2012/12/01 03:20:57  Cook-2 : BurgerMachine occupied
+2012/12/01 03:20:57  Cook-1 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:57  Diner-11 : released Table-2
+2012/12/01 03:20:57  Food served for Cook-1
+2012/12/01 03:20:57  Cook-2 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:57  Diner-16 : Started Eating
+2012/12/01 03:20:57  Diner-18 : waiting on tables for a table
+2012/12/01 03:20:57  Diner-18 : seated on Table-2
+2012/12/01 03:20:57  Diner-18 : placed order
+2012/12/01 03:20:57  Diner-18 : waiting on table for cook
+2012/12/01 03:20:57  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:57  Cook-0 : assigned to Table-2
+2012/12/01 03:20:57  Cook-0 : waiting for diner to place order
+2012/12/01 03:20:57  Cook-0 : looking for machines
+2012/12/01 03:20:57  Cook-0 : SodaMachine occupied
+2012/12/01 03:20:57  Cook-0 : Cooking on SodaMachine for time 1
+2012/12/01 03:20:57  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:57  Diner-18 : waiting on table for food
+2012/12/01 03:20:57  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:57  Number of diners in the restaurant : 7
+2012/12/01 03:20:57  Cook-0 : Done cooking and leaving SodaMachine
+2012/12/01 03:20:57  Current Time : 172
+2012/12/01 03:20:57  Cook-0 : looking for machines
+2012/12/01 03:20:57  Current Time : 173
+2012/12/01 03:20:57  Current Time : 174
+2012/12/01 03:20:57  Current Time : 175
+2012/12/01 03:20:57  Current Time : 176
+2012/12/01 03:20:57  Current Time : 177
+2012/12/01 03:20:57  Current Time : 178
+2012/12/01 03:20:57  Current Time : 179
+2012/12/01 03:20:57  Current Time : 180
+2012/12/01 03:20:57  Cook-2 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:57  Cook-0 : BurgerMachine occupied
+2012/12/01 03:20:57  Current Time : 181
+2012/12/01 03:20:57  Diner-10 : released Table-0
+2012/12/01 03:20:57  Cook-0 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:57  Food served for Cook-2
+2012/12/01 03:20:57  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:57  Diner-17 : Started Eating
+2012/12/01 03:20:57  Number of diners in the restaurant : 6
+2012/12/01 03:20:57  Diner-19 : waiting on tables for a table
+2012/12/01 03:20:57  Diner-19 : seated on Table-0
+2012/12/01 03:20:57  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:57  Cook-1 : assigned to Table-0
+2012/12/01 03:20:57  Number of diners in the restaurant : 6
+2012/12/01 03:20:57  Cook-1 : waiting for diner to place order
+2012/12/01 03:20:57  Diner-19 : placed order
+2012/12/01 03:20:57  Diner-19 : waiting on table for cook
+2012/12/01 03:20:57  Diner-19 : waiting on table for food
+2012/12/01 03:20:57  Cook-1 : looking for machines
+2012/12/01 03:20:57  Cook-1 : FriesMachine occupied
+2012/12/01 03:20:57  Cook-1 : Cooking on FriesMachine for time 3
+2012/12/01 03:20:57  Current Time : 182
+2012/12/01 03:20:57  Current Time : 183
+2012/12/01 03:20:57  Cook-1 : Done cooking and leaving FriesMachine
+2012/12/01 03:20:57  Cook-1 : looking for machines
+2012/12/01 03:20:57  Current Time : 184
+2012/12/01 03:20:57  Current Time : 185
+2012/12/01 03:20:57  Current Time : 186
+2012/12/01 03:20:57  Current Time : 187
+2012/12/01 03:20:58  Current Time : 188
+2012/12/01 03:20:58  Current Time : 189
+2012/12/01 03:20:58  Current Time : 190
+2012/12/01 03:20:58  Current Time : 191
+2012/12/01 03:20:58  Cook-0 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:58  Diner-14 : released Table-5
+2012/12/01 03:20:58  Cook-3 : BurgerMachine occupied
+2012/12/01 03:20:58  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:58  Food served for Cook-0
+2012/12/01 03:20:58  Number of diners in the restaurant : 5
+2012/12/01 03:20:58  Cook-3 : Cooking on BurgerMachine for time 20
+2012/12/01 03:20:58  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:58  Diner-18 : Started Eating
+2012/12/01 03:20:58  Number of diners in the restaurant : 5
+2012/12/01 03:20:58  Current Time : 192
+2012/12/01 03:20:58  Current Time : 193
+2012/12/01 03:20:58  Current Time : 194
+2012/12/01 03:20:58  Current Time : 195
+2012/12/01 03:20:58  Current Time : 196
+2012/12/01 03:20:58  Current Time : 197
+2012/12/01 03:20:58  Current Time : 198
+2012/12/01 03:20:58  Current Time : 199
+2012/12/01 03:20:58  Current Time : 200
+2012/12/01 03:20:58  Current Time : 201
+2012/12/01 03:20:58  Diner-16 : released Table-4
+2012/12/01 03:20:58  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:58  Number of diners in the restaurant : 4
+2012/12/01 03:20:58  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:58  Number of diners in the restaurant : 4
+2012/12/01 03:20:58  Current Time : 202
+2012/12/01 03:20:58  Current Time : 203
+2012/12/01 03:20:58  Current Time : 204
+2012/12/01 03:20:58  Current Time : 205
+2012/12/01 03:20:58  Current Time : 206
+2012/12/01 03:20:58  Current Time : 207
+2012/12/01 03:20:59  Current Time : 208
+2012/12/01 03:20:59  Current Time : 209
+2012/12/01 03:20:59  Current Time : 210
+2012/12/01 03:20:59  Diner-17 : released Table-3
+2012/12/01 03:20:59  Cook-1 : BurgerMachine occupied
+2012/12/01 03:20:59  Cook-1 : Cooking on BurgerMachine for time 10
+2012/12/01 03:20:59  Cook-3 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:59  Current Time : 211
+2012/12/01 03:20:59  Food served for Cook-3
+2012/12/01 03:20:59  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:59  Number of diners in the restaurant : 3
+2012/12/01 03:20:59  Diner-15 : Started Eating
+2012/12/01 03:20:59  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:59  Number of diners in the restaurant : 3
+2012/12/01 03:20:59  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:59  Number of diners in the restaurant : 3
+2012/12/01 03:20:59  Current Time : 212
+2012/12/01 03:20:59  Current Time : 213
+2012/12/01 03:20:59  Current Time : 214
+2012/12/01 03:20:59  Current Time : 215
+2012/12/01 03:20:59  Current Time : 216
+2012/12/01 03:20:59  Current Time : 217
+2012/12/01 03:20:59  Current Time : 218
+2012/12/01 03:20:59  Current Time : 219
+2012/12/01 03:20:59  Current Time : 220
+2012/12/01 03:20:59  Current Time : 221
+2012/12/01 03:20:59  Cook-1 : Done cooking and leaving BurgerMachine
+2012/12/01 03:20:59  Food served for Cook-1
+2012/12/01 03:20:59  Diner-18 : released Table-2
+2012/12/01 03:20:59  Diner-19 : Started Eating
+2012/12/01 03:20:59  Cook-1 : waiting on tables for a table
+2012/12/01 03:20:59  Number of diners in the restaurant : 2
+2012/12/01 03:20:59  Cook-3 : waiting on tables for a table
+2012/12/01 03:20:59  Number of diners in the restaurant : 2
+2012/12/01 03:20:59  Cook-0 : waiting on tables for a table
+2012/12/01 03:20:59  Number of diners in the restaurant : 2
+2012/12/01 03:20:59  Cook-2 : waiting on tables for a table
+2012/12/01 03:20:59  Number of diners in the restaurant : 2
+2012/12/01 03:20:59  Current Time : 222
+2012/12/01 03:20:59  Current Time : 223
+2012/12/01 03:20:59  Current Time : 224
+2012/12/01 03:20:59  Current Time : 225
+2012/12/01 03:20:59  Current Time : 226
+2012/12/01 03:20:59  Current Time : 227
+2012/12/01 03:21:00  Current Time : 228
+2012/12/01 03:21:00  Current Time : 229
+2012/12/01 03:21:00  Current Time : 230
+2012/12/01 03:21:00  Current Time : 231
+2012/12/01 03:21:00  Current Time : 232
+2012/12/01 03:21:00  Current Time : 233
+2012/12/01 03:21:00  Current Time : 234
+2012/12/01 03:21:00  Current Time : 235
+2012/12/01 03:21:00  Current Time : 236
+2012/12/01 03:21:00  Current Time : 237
+2012/12/01 03:21:00  Current Time : 238
+2012/12/01 03:21:00  Current Time : 239
+2012/12/01 03:21:00  Current Time : 240
+2012/12/01 03:21:00  Current Time : 241
+2012/12/01 03:21:00  Diner-15 : released Table-1
+2012/12/01 03:21:00  Cook-2 : waiting on tables for a table
+2012/12/01 03:21:00  Number of diners in the restaurant : 1
+2012/12/01 03:21:00  Cook-0 : waiting on tables for a table
+2012/12/01 03:21:00  Number of diners in the restaurant : 1
+2012/12/01 03:21:00  Cook-3 : waiting on tables for a table
+2012/12/01 03:21:00  Number of diners in the restaurant : 1
+2012/12/01 03:21:00  Cook-1 : waiting on tables for a table
+2012/12/01 03:21:00  Number of diners in the restaurant : 1
+2012/12/01 03:21:00  Current Time : 242
+2012/12/01 03:21:00  Current Time : 243
+2012/12/01 03:21:00  Current Time : 244
+2012/12/01 03:21:00  Current Time : 245
+2012/12/01 03:21:00  Current Time : 246
+2012/12/01 03:21:01  Current Time : 247
+2012/12/01 03:21:01  Current Time : 248
+2012/12/01 03:21:01  Current Time : 249
+2012/12/01 03:21:01  Current Time : 250
+2012/12/01 03:21:01  Current Time : 251
+2012/12/01 03:21:01  Diner-19 : released Table-0
